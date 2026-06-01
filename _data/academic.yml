@@ -1,0 +1,30 @@
+# List of contributors
+#
+# reference maintainers/contributors by their name used in contributors metadata section on the pages.
+# Extra metadata that is possible to add:
+# Full Name:
+#    git: github id
+#    email: email adress
+#    orcid: ocrid id
+#    role: the role of the contributor
+#    affiliation: affiliation
+#    image_url: absolute path to image (default image from github)
+
+#Example contributor:
+#    git: 
+#    email: 
+#    orcid: 
+#    role: 
+#    affiliation: 
+
+Katharine Michie:
+    git: katemichie 
+    email: k.michie@unsw.edu.au
+    orcid: 0000-0002-2133-2237
+    affiliation: Chief Scientist, Structural Biology Facility, UNSW
+
+Thomas Litfin:
+    git:  tlitfin-unsw 
+    email: t.litfin@unsw.edu.au 
+    orcid: 0000-0002-4863-3865
+    affiliation: Senior Research Associate, Structural Biology Facility, UNSW
